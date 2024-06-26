@@ -1,0 +1,48 @@
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .text-center {
+    text-align: center;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  .col {
+    padding: 0 15px;
+  }
+  
+  .mb-4 {
+    margin-bottom: 20px;
+  }
+
+  .event-card {
+    height: 100%; 
+    border-radius: 15px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .event-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+  }
+  
+  .card-body {
+    padding: 20px; 
+  }
+  
+  .card-title {
+    font-weight: bold; 
+  }
+  
+  .card-text {
+    color: #666; 
+  }
+  
